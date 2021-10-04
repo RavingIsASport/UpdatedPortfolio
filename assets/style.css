@@ -1,0 +1,56 @@
+#name{
+    position: absolute;
+    left: 35%;
+    top: 15%;
+    color: white;
+    font-family: monospace;
+    font-size: 50px;
+}
+#selfie {
+    position: absolute;
+    left: 42%;
+    top: 25%;
+    width: 240px;
+}
+#ig {
+    position: absolute;
+    left: 1%;
+    top: 3%;
+    width: 64px;
+}
+#gh {
+    position: absolute;
+    left: 7%;
+    top: 3%;
+    width: 64px;
+}
+#linked {
+    position: absolute;
+    left: 13%;
+    top: 3%;
+    width: 64px;
+}
+h1{
+    color: white;
+}
+#content {
+    position: absolute;
+    left: 18%;
+    top: 60%;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+h2{
+    position: absolute;
+    top: 128%;
+}
+#pg {
+    position: absolute;
+    top: 138%;
+}
+#resume {
+    position: absolute;
+    top: 70%;
+    left: 43%;
+}
