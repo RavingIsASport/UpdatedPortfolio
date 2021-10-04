@@ -45,12 +45,23 @@ h2{
     position: absolute;
     top: 128%;
 }
-#pg {
+#mqs {
     position: absolute;
     top: 138%;
+    font-family: monospace;
 }
 #resume {
     position: absolute;
     top: 70%;
     left: 43%;
+}
+#madAbout {
+    position: absolute;
+    top: 140%;
+    font-family: monospace;
+}
+#madPic{
+    width: 800px;
+    position: absolute;
+    top: 150%;
 }
